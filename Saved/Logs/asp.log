@@ -762,3 +762,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-03.03.39:986][507]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.27-03.03.39:986][507]LogContentValidation: Display: Validating World /Game/Death_1.Death_1
 [2020.02.27-03.03.39:986][507]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Death_1_BuiltData.Death_1_BuiltData
+[2020.02.27-03.16.40:023][820]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-03.16.40:034][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-03.16.40:034][820]PIE: New page: PIE session: Death_1 (Feb 26, 2020, 11:16:40 AM)
+[2020.02.27-03.16.40:035][820]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.27-03.16.40:036][820]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.27-03.16.40:036][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Death_1
+[2020.02.27-03.16.40:038][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002036s)
+[2020.02.27-03.16.40:039][820]LogAIModule: Creating AISystem for world Death_1
+[2020.02.27-03.16.40:039][820]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2020.02.27-03.16.40:039][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Death_1.Death_1 to /Game/UEDPIE_0_Death_1.Death_1 (0.003402s)
+[2020.02.27-03.16.40:065][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-03.16.40:066][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-03.16.40:066][820]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-03.16.40:066][820]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: Channel Order:
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-03.16.40:108][820]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-03.16.40:209][820]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-03.16.40:211][820]LogInit: FAudioDevice initialized.
+[2020.02.27-03.16.40:221][820]LogLoad: Game class is 'GameModeBase'
+[2020.02.27-03.16.40:224][820]LogWorld: Bringing World /Game/UEDPIE_0_Death_1.Death_1 up for play (max tick rate 60) at 2020.02.26-19.16.40
+[2020.02.27-03.16.40:224][820]LogWorld: Bringing up level for play took: 0.001083
+[2020.02.27-03.16.40:224][820]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.02.27-03.16.40:227][820]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.27-03.16.40:227][820]PIE: Play in editor start time for /Game/UEDPIE_0_Death_1 1.191
+[2020.02.27-03.17.10:461][629]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.10:461][629]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.10:461][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-03.17.10:461][629]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Death_1
+[2020.02.27-03.17.10:462][629]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.10:462][629]LogWorld: UWorld::CleanupWorld for Death_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-03.17.10:462][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-03.17.10:470][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-03.17.10:473][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-03.17.10:497][629]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.10:506][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-03.17.10:509][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.27-03.17.10:570][632]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.27-03.17.48:759][915]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-03.17.48:768][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-03.17.48:768][915]PIE: New page: PIE session: Death_1 (Feb 26, 2020, 11:17:48 AM)
+[2020.02.27-03.17.48:768][915]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Death_1
+[2020.02.27-03.17.48:770][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001640s)
+[2020.02.27-03.17.48:771][915]LogAIModule: Creating AISystem for world Death_1
+[2020.02.27-03.17.48:771][915]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2020.02.27-03.17.48:771][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Death_1.Death_1 to /Game/UEDPIE_0_Death_1.Death_1 (0.002573s)
+[2020.02.27-03.17.48:797][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.02.27-03.17.48:798][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-03.17.48:798][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-03.17.48:798][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-03.17.48:798][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-03.17.48:798][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-03.17.48:798][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-03.17.48:798][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-03.17.48:798][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-03.17.48:799][915]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-03.17.48:799][915]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: Channel Order:
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-03.17.48:841][915]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-03.17.48:942][915]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-03.17.48:944][915]LogInit: FAudioDevice initialized.
+[2020.02.27-03.17.48:951][915]LogLoad: Game class is 'GameModeBase'
+[2020.02.27-03.17.48:953][915]LogWorld: Bringing World /Game/UEDPIE_0_Death_1.Death_1 up for play (max tick rate 60) at 2020.02.26-19.17.48
+[2020.02.27-03.17.48:953][915]LogWorld: Bringing up level for play took: 0.000828
+[2020.02.27-03.17.48:953][915]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.02.27-03.17.48:954][915]PIE: Play in editor start time for /Game/UEDPIE_0_Death_1 -0.082
+[2020.02.27-03.17.56:126][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.56:126][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.56:126][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-03.17.56:126][345]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Death_1
+[2020.02.27-03.17.56:126][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.56:126][345]LogWorld: UWorld::CleanupWorld for Death_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-03.17.56:127][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-03.17.56:131][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-03.17.56:133][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-03.17.56:157][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.17.56:164][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-03.17.56:166][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.02.27-03.17.56:241][350]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.02.27-03.17.57:017][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Death_1" FILE="../../../../../../Users/ray/OneDrive/Documents/GitHub/ue4-project-asp/Content/Death_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-03.17.57:045][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.27-03.17.57:062][394]LogSavePackage: Moving '../../../../../../Users/ray/OneDrive/Documents/GitHub/ue4-project-asp/Saved/Death_1CB07F1364E0EA9723C177383E2467657.tmp' to '../../../../../../Users/ray/OneDrive/Documents/GitHub/ue4-project-asp/Content/Death_1.umap'
+[2020.02.27-03.17.57:088][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Death_1_BuiltData" FILE="../../../../../../Users/ray/OneDrive/Documents/GitHub/ue4-project-asp/Content/Death_1_BuiltData.uasset" SILENT=true
+[2020.02.27-03.17.57:101][394]LogSavePackage: Moving '../../../../../../Users/ray/OneDrive/Documents/GitHub/ue4-project-asp/Saved/Death_1_BuiltData99F6D9384C7191B19A281CB3E00E972E.tmp' to '../../../../../../Users/ray/OneDrive/Documents/GitHub/ue4-project-asp/Content/Death_1_BuiltData.uasset'
+[2020.02.27-03.17.57:113][394]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-03.17.57:113][394]LogContentValidation: Display: Validating World /Game/Death_1.Death_1
+[2020.02.27-03.17.57:114][394]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Death_1_BuiltData.Death_1_BuiltData
+[2020.02.27-03.18.08:293][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.27-03.18.08:303][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-03.18.08:303][ 64]PIE: New page: PIE session: Death_1 (Feb 26, 2020, 11:18:08 AM)
+[2020.02.27-03.18.08:303][ 64]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Death_1
+[2020.02.27-03.18.08:304][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001489s)
+[2020.02.27-03.18.08:305][ 64]LogAIModule: Creating AISystem for world Death_1
+[2020.02.27-03.18.08:305][ 64]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2020.02.27-03.18.08:305][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Death_1.Death_1 to /Game/UEDPIE_0_Death_1.Death_1 (0.002392s)
+[2020.02.27-03.18.08:332][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.02.27-03.18.08:332][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-03.18.08:332][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-03.18.08:332][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-03.18.08:332][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-03.18.08:332][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-03.18.08:332][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-03.18.08:332][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-03.18.08:332][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-03.18.08:333][ 64]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-03.18.08:333][ 64]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: Channel Order:
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-03.18.08:373][ 64]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-03.18.08:474][ 64]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-03.18.08:475][ 64]LogInit: FAudioDevice initialized.
+[2020.02.27-03.18.08:481][ 64]LogLoad: Game class is 'GameModeBase'
+[2020.02.27-03.18.08:482][ 64]LogWorld: Bringing World /Game/UEDPIE_0_Death_1.Death_1 up for play (max tick rate 60) at 2020.02.26-19.18.08
+[2020.02.27-03.18.08:483][ 64]LogWorld: Bringing up level for play took: 0.000836
+[2020.02.27-03.18.08:483][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.27-03.18.08:484][ 64]PIE: Play in editor start time for /Game/UEDPIE_0_Death_1 -0.551
+[2020.02.27-03.18.53:427][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.18.53:427][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.18.53:427][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-03.18.53:427][298]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Death_1
+[2020.02.27-03.18.53:427][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.18.53:427][298]LogWorld: UWorld::CleanupWorld for Death_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-03.18.53:428][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-03.18.53:439][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-03.18.53:442][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-03.18.53:464][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-03.18.53:472][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-03.18.53:474][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.27-03.18.53:532][301]LogPlayLevel: Display: Destroying online subsystem :Context_3
